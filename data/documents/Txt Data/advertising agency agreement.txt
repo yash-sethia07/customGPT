@@ -1,0 +1,90 @@
+﻿Contract of an Advertising Agency
+
+
+AGREEMENT 
+By and Between 
+[name and address of advertising agency] ("Agency"), 
+AND
+[name and address of client] ("Client").
+1.	Appointment
+Client appoints Agency as Client's [exclusive]lxx advertising agency in connection with the products and/or services of Client described in Schedule 1, attached hereto, for a term ("Term") as hereinafter provided.
+2. Scope of Advertising Services
+Agency will provide Client with the advertising services provided in Schedule 2, attached hereto. Should Client request Agency to perform additional services beyond what is provided in Schedule 2, Agency and Client will negotiate in good faith with respect to the terms, conditions, and compensation for such additional services. lxxi Any agreement for additional services will be set forth in writing and considered an addendum to this Agreement.
+3. Ownership
+All campaigns, trademarks, service marks, slogans, artwork, written materials, drawings, photographs, graphic materials, film, music, transcriptions, or other materials that are subject to copyright, trademark, patent, or similar protection (collectively, the "Work Product") produced by Agency are the property of the Client provided: (1) such Work Product is accepted in writing by the Client within twelve (12) months of being proposed by Agency; and (2) Client pays all fees and costs associated with creating and, where applicable, producing such Work Product. Work Product that does not meet the two foregoing conditions shall remain Agency's property.
+Notwithstanding the foregoing, it is understood that Agency may, on occasion, license materials from third parties for inclusion in Work Product. In such circumstances, ownership of such licensed materials remains with the licensor at the conclusion of the term of the license. In such instances, Client agrees that it remains bound by the terms of such licenses. Agency will keep Client informed of any such limitations.
+4. Term
+The term of this Agreement shall commence on the date provided in Schedule 1 ("Commencement Date") and shall continue until terminated by either party upon ninety (90) days' prior written notice ("Notice Period"), provided that this Agreement may not be terminated effective prior to the expiration of twelve (12) months from the Commencement Date. lxxiii Notice shall be deemed given on the day of mailing or, in case of notice by telegram, on the day it is deposited with the telegraph company for transmission. During the Notice Period, Agency's rights, duties, and responsibilities shall continue.
+Upon termination, Agency will transfer and/or assign to Client: (1) all Work Product in Agency's possession or control belonging to Client, subject, however, to any rights of third parties; and (2) all contracts with third parties, including advertising media or others, upon being duly released by Client and any such third party from any further obligations. Client recognizes that Agency is a signatory to certain union agreements covering talent used in broadcast materials, which generally cannot be assigned except to signatories to such collective bargaining agreements governing the services rendered by such talent.lxxiv
+5. Compensation and Billing Procedure
+Agency will be compensated and Client will be billed as provided in Schedule 3, attached hereto.
+6. Confidentiality and Safeguard of Property
+Client and Agency respectively agree to keep in confidence, and not to disclose or use for its own respective benefit or for the benefit of any third party (except as may be required for the performance of services under this Agreement or as may be required by law), any information, documents, or materials that are reasonably considered confidential regarding each other's products, business, customers, clients, suppliers, or methods of operation; provided, however, that such obligation of confidentiality will not extend to anything in the public domain or that was in the possession of either party prior to disclosure. Agency and Client will take reasonable precautions to safeguard property of the other entrusted to it, but in the absence of negligence or willful disregard, neither Agency nor Client will be responsible for any loss or damage.
+7. Indemnities
+Agency agrees to indemnify and hold Client harmless with respect to any claims or actions by third parties against Client based upon material prepared by Agency, involving any claim for libel, slander, piracy, plagiarism, invasion of privacy, or infringement of copyright, except where any such claim or action arises out of material supplied by Client to Agency.lxxv
+Client agrees to indemnify and hold Agency harmless with respect to any claims or actions by third parties against Agency based upon materials furnished by Client or where material created by Agency is substantially changed by Client. Information or data obtained by Agency from Client to substantiate claims made in advertising shall be deemed to be "materials furnished by Client." Client further agrees to indemnify and hold Agency harmless with respect to any death or personal injury claims or actions arising from the use of Client's products or services.
+8. Commitments to Third Parties
+All purchases of media, production costs, and engagement of talent will be subject to Client's prior approval. Client reserves the right to cancel any such authorization, whereupon Agency will take all appropriate steps to effect such cancellation, provided that Client will hold Agency harmless with respect to any costs incurred by Agency as a result.
+If at any time Agency obtains a discount or rebate from any supplier in connection with Agency's rendition of services to Client, Agency will credit Client or remit to Client such discount or rebate.
+For all media purchased by Agency on Client's behalf, Client agrees that Agency shall be held solely liable for payments only to the extent proceeds have cleared from Client to Agency for such media purchase; otherwise, Client agrees to be solely liable to media ("Sequential Liability"). Agency will use its best efforts to obtain agreement by media to Sequential Liability.lxxvi
+9. Amendments
+Any amendments to this Agreement must be in writing and signed by Agency and Client.
+10. Notices
+Any notice shall be deemed given on the day of mailing or, if notice is by telegram, e-mail, or fax, on the next day following the day notice is deposited with the telegraph company for transmission, or e-mailed or faxed.
+11. Governing Law and Jurisdiction. The Parties agree that this Agreement shall be governed by the State and/or Country in which both Parties do business. In the event that the Parties do business in different States and/or Countries, this Agreement shall be governed by _________ law.
+IN WITNESS WHEREOF, Agency and Client have executed this Agreement.
+[AGENCY]					
+By:					
+Name:					
+Title:					
+ [CLIENT]
+By:					
+Name:					
+Title:					
+
+Endnotes:
+lxx	Depending upon the nature of the relationship, an agency may be appointed as an advertiser's exclusive advertising agency in general or connection with a particular assignment. While such exclusivity is not common, it is appropriate in some instances.
+lxxi	It is important that the advertising agency and advertiser understand the scope of the services to be provided. If appropriate attention is not paid to this issue, advertisers may find themselves quite disappointed at what the advertising agency is willing or capable of doing within the compensation structure.
+lxxii	Ownership of creative is a major issue, particularly creative that is either rejected or not used by the advertiser. Some advertisers, particularly when they are paying the agency on a fee basis as opposed to a media commission basis, take the position that everything presented to the advertiser, whether accepted or used, is owned by the advertiser. Advertising agencies, on the other hand, contend that their stock in trade is ideas and their execution. If rejected or not used by an advertiser, the creative should therefore be owned by the advertising agency. This form attempts to reach a compromise. Whether such a compromise is appropriate in a particular deal will depend upon the needs of the respective parties.
+lxxiii	There is some question whether a ninety day cancellation period or a one year minimum term is standard. Depending upon the nature and complexity of the assignment, however, such terms may be appropriate. Caution must be exercised by both parties with regard to the cancellation period to be certain that work in process can be completed in the time frame provided. In that regard, ninety days is generally regarded as an appropriate period, although it is not unusual to see sixty or even forty five day periods. The one year minimum is appropriate where there is a considerable lead time before advertising will be produced or where an advertising agency must make a significant investment in materials, equipment, and personnel to properly service the advertiser. A minimum term of one year may be necessary to insure a proper ramp up and return on investment for the advertising agency.
+lxxiv	Not all advertising agencies are signatory to union agreements dealing with the employment of actors in commercials. Where an advertising agency is not a signatory, this paragraph should be eliminated.
+lxxv	The indemnity in this form generally follows the insurance coverage available to advertising agencies. Some advertisers demand a broader indemnity. While such a demand may seem prudent, one must remember that most advertising agencies are small businesses that can afford only just so much insurance. Significant claims beyond their insurance coverage will more likely than not bankrupt the advertising agency. Therefore, an advertiser must be realistic in its indemnity demands.
+lxxvi	This is a somewhat controversial provision. "Sequential Liability" is not an established legal principle. It is a concept adopted by the American Association of Advertising Agencies in the 1990's. A significant portion of the media industry has rejected the concept, taking the position that the advertising agency and advertiser are jointly and severally liable ( a concept that is similarly rejected by the advertising industry). 
+ 
+Schedule 1: Products/Services Assigned to Agency
+ 
+Schedule 2: Commencement Date and Scope of Services
+I.	Commencement Date: [supply]
+II.	Scope of Serviceslxxvii
+A.	Study Client's products or services;
+B.	Analyze Client's present and potential markets;
+C.	Create, prepare, and submit to Client for approval, advertising ideas and programs;
+D.	Employ on Client's behalf, Agency's knowledge of available media and means that can be profitably used to advertise Client's products or services;
+E.	Prepare and submit to Client for approval, estimates of costs of recommended advertising programs;
+F.	Write, design, illustrate, or otherwise prepare Client's advertisements, including commercials to be broadcast, or other appropriate forms of Client's message;
+G.	Order the space, time, or other means to be used for Client's advertising, endeavoring to secure the most advantageous rates available;
+H.	Properly incorporate the message in mechanical or other form and forward it with proper instructions for the fulfillment of the order;
+I.	Check and verify insertions, displays, broadcasts, or other means used, to such degree as is usually performed by advertising agencies; and
+J.	Audit invoices for space, time, material preparation, and services.
+Endnotes:
+lxxvii	This is a relatively comprehensive list of potential advertising agency services and should be reviewed and edited according to the nature of the relationship and assignment.
+ 
+Schedule 3: Compensation and Billing Procedures
+I.	Compensationlxxviii
+A.	Client will pay a [monthly]lxxix fee of $__________ in consideration of the advertising services performed by Agency. Such fee shall be deemed a nonrefundable advance against commissions to be received by Agency as follows:
+(1) On all media purchased by Agency, Agency shall bill Client at the published card rates, or negotiated rates, as may be applicable. If no agency commission, or less than [insert amount] percentlxxx ([insert amount]%) agency commission (the "Commission Rate"), is granted or allowed on any such purchases, Client agrees that Agency may invoice Client an amount which, after deduction of Agency's cost, will yield Agency the aforesaid Commission Rate of such amount as Agency commission. During the Notice Period following notice of termination, Agency will be entitled to commissions on all orders of advertising in print media whose published closing dates fall within the Notice Period and of broadcast media where the air dates fall within the Notice Period, regardless of who may place such orders.
+(2) With respect to the engagement of talent, Agency shall bill Client the authorized engagement rate, plus any taxes, insurance, pension and health fund contributions, etc. applicable thereto, plus an amount which, after deduction of Agency's cost, will yield Agency the Commission Rate on such amount as Agency commission.
+(3) On broadcast production, artwork, engravings, type compositions, and any and all art and mechanical expenses incurred by Agency pursuant to Client's authorization, Agency shall invoice Client an amount which, after deduction of Agency's cost, will yield Agency the Commission Rate on such amount as Agency commission.
+(4) Advances against commissions will be reconciled against commissions actually received on a (monthly, quarter-annual, or other) basis. Agency will issue the appropriate credit or debit invoices.
+B.	Client agrees to reimburse Agency for such cash outlays as Agency may incur, such as forwarding and mailing, telephoning, telegraphing, and travel, in connection with services rendered in relation to Client's account.
+II.	Billing and Payment Procedures
+A.	Agency will invoice Client for all media and third-party costs sufficiently in advance of the due date to permit payment by Client to Agency in order to take advantage of all available cash discounts or rebates.
+B.	The cost of production materials and services shall be billed by Agency upon completion of the production job, or upon receipt of supplier invoice prior thereto.
+C.	On all outside purchases other than for media, Agency will attach to the invoice proof of billed charges from suppliers.
+D.	All invoices shall be rendered on or about the first day of each month and will be payable the tenth day of the month.
+E.	Invoices shall be submitted in an itemized format. Interest will be charged on overdue invoices at a rate of [insert amount] percent ([insert amount]%) per annum, or the maximum permitted by law, whichever is less.
+Endnotes:
+lxxviii	This form assumes a compensation method whereby the advertising agency receives a minimum monthly fee against which commissions are applied. This is a relatively common manner in which to compensate an advertising agency. There are, however, many variations of this theme, e.g., fee only, hourly rates, incentive, or commission only and just about any combination thereof.
+lxxix	While monthly is common, the period of payment can be longer, e.g., quarterly.
+lxxx	15% is a common commission paid, although the rate is under constant challenge and can no longer be described as the "norm". It is not uncommon to see commissions as low at 10%. Advertisers that are paying on commission must be realistic and be certain that their commission rate affords the advertising agency an appropriate profit margin to insure that the quality of the work is not adversely affected by a losing relationship.
+
